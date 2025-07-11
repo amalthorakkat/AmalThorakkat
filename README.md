@@ -1,4 +1,4 @@
-# <div align="center">🚀 **A M A L   K R I S H N A   T S** 🚀</div>
+# <div align="center"> **A M A L   K R I S H N A   T S** </div>
 
 <div align="center">
   
