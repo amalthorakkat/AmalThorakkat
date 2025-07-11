@@ -1,13 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
+</div>
+
 # <div align="center"> **A M A L   K R I S H N A   T S** </div>
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MERN+Stack+Developer;Full-Stack+Enthusiast;Problem+Solver;Building+the+Future)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
 </div>
 
 ---
