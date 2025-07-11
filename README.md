@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
 </div>
-
 <div align="center"> <h1>A M A L   K R I S H N A   T S</h1> </div>
 
 <div align="center">
