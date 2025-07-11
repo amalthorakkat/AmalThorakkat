@@ -125,7 +125,7 @@
 
 <div align="center">
   
-  [![Visitor Count](https://visitcount.itsvg.in/api?id=amalthorakkat&icon=8&color=12)](https://visitcount.itsvg.in)
+  ![Visitor Count](https://profile-counter.glitch.me/amalthorakkat/count.svg)
 
 </div>
 
