@@ -125,7 +125,7 @@
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/amalthorakkat/count.svg)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=amalthorakkat&color=00d9ff&style=for-the-badge&label=VISITORS)
 
 </div>
 
