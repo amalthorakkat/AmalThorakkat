@@ -67,7 +67,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=amalthorakkat&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="GitHub Stats"/>
   
   <img src="https://streak-stats.demolab.com/?user=amalthorakkat&theme=cyberpunk&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF&dates=FFFFFF" alt="Streak Stats"/>
   
