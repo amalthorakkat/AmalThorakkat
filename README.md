@@ -1,8 +1,5 @@
 
 <div align="center"> <h1>A M A L   K R I S H N A   T S</h1> </div>
-
-## <div align="center">🌐 **NEURAL NETWORK CONNECTIONS** 🌐</div>
-
 <div align="center">
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/aesthfex)
