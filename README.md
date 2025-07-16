@@ -1,24 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
-</div>
+
 <div align="center"> <h1>A M A L   K R I S H N A   T S</h1> </div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MERN+Stack+Developer;Full-Stack+Enthusiast;Problem+Solver;Building+the+Future)](https://git.io/typing-svg)
 
-</div>
 
----
 
-<div align="center">
-  
-  **🌟 TRANSFORMING COMPLEX PROBLEMS INTO INTUITIVE DIGITAL SOLUTIONS 🌟**
-  
-  *Passionate about building scalable and user-centric web applications using cutting-edge technologies*  
-  *Continuously exploring emerging tech to craft the digital experiences of tomorrow*
 
-</div>
+
 
 ---
 
