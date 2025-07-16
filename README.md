@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,tailwind&theme=dark" />
 </div>
 
----
+
 
 ## <div align="center">📊 **DIGITAL ANALYTICS DASHBOARD** 📊</div>
 
@@ -42,7 +42,7 @@
 
 </div>
 
----
+
 
 ## <div align="center">🏆 **ACHIEVEMENT MATRIX** 🏆</div>
 
@@ -52,7 +52,7 @@
 
 </div>
 
----
+
 
 ## <div align="center">🎭 **WISDOM ALGORITHM** 🎭</div>
 
@@ -62,7 +62,6 @@
 
 </div>
 
----
 
 ## <div align="center">🌟 **CONTRIBUTION CONSTELLATION** 🌟</div>
 
@@ -72,7 +71,6 @@
 
 </div>
 
----
 
 ## <div align="center">🔮 **ACTIVITY MATRIX** 🔮</div>
 
@@ -82,7 +80,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   
@@ -96,20 +94,4 @@
 
 </div>
 
-<div align="center">
-  
-  **💫 CRAFTED WITH QUANTUM PRECISION BY AMAL KRISHNA T S | POWERED BY INFINITE POSSIBILITIES ⚡**
-  
-  *"The future belongs to those who believe in the beauty of their dreams"*
-  
-</div>
 
----
-
-<div align="center">
-
-### 🚀 **READY TO COLLABORATE ON THE NEXT BIG THING?** 🚀
-
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-00D9FF?style=for-the-badge&logo=handshake&logoColor=white)](mailto:amalthorakkat@gmail.com)
-
-</div>
