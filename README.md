@@ -1,14 +1,6 @@
 
 <div align="center"> <h1>A M A L   K R I S H N A   T S</h1> </div>
 
-
-
-
-
-
-
----
-
 ## <div align="center">🌐 **NEURAL NETWORK CONNECTIONS** 🌐</div>
 
 <div align="center">
@@ -19,13 +11,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300"/>
-</div>
-
----
-
-## <div align="center">⚡ **QUANTUM TECH ARSENAL** ⚡</div>
+## <div align="center">⚡ **Skills** ⚡</div>
 
 <div align="center">
 
