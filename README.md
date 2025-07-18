@@ -1,10 +1,10 @@
 
-<div align="center"> <h1>A M A L   K R I S H N A   T S</h1> 
-  
+
+
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/aesthfex)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/amal-thorakkat)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:amalthorakkat@gmail.com)
-</div>
+
 
 
 ## <div align="center">⚡ **Skills** ⚡</div>
@@ -54,13 +54,7 @@
 
 
 
-## <div align="center">🎭 **WISDOM ALGORITHM** 🎭</div>
 
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&background=0D1117&border=00D9FF"/>
-
-</div>
 
 
 ## <div align="center">🌟 **CONTRIBUTION CONSTELLATION** 🌟</div>
