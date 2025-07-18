@@ -1,9 +1,13 @@
 
-
-
+<div align="center>
+  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/aesthfex)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/amal-thorakkat)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:amalthorakkat@gmail.com)
+  
+</div>
+
+
 
 
 
