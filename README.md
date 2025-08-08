@@ -1,13 +1,13 @@
-<!-- Profile Header -->
+<!-- Profile Banner -->
 <div align="center">
+  <img src="https://i.imgur.com/z8dK4Wn.png" width="100%" alt="Banner"/>
   
-# ⚡ **AMAL THORAKKAT**  
-*Full Stack MERN Developer | Tech Enthusiast*
+  <h1 style="color:white;">⚡ AMAL THORAKKAT</h1>
+  <p><em>Full Stack MERN Developer | Tech Enthusiast</em></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/aesthfex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/amal-thorakkat)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:amalthorakkat@gmail.com)
-
 </div>
 
 ---
@@ -26,5 +26,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,tailwind&theme=dark" />
 </div>
-
----
