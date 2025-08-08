@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/z8dK4Wn.png" width="100%" alt="Banner"/>
+  <img src="https://i.ibb.co/HC9rjZP/futuristic-banner.jpg" width="100%" alt="Banner"/>
   
   <h1 style="color:white;">⚡ AMAL THORAKKAT</h1>
   <p><em>Full Stack MERN Developer | Tech Enthusiast</em></p>
