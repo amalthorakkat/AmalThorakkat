@@ -1,3 +1,5 @@
+<div style="border: 2px solid #333; border-radius: 10px; padding: 20px; background-color: #f9f9f9; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);">
+
 <div align="center">
 
 # **AMAL THORAKKAT**
@@ -39,3 +41,5 @@ I leverage the following technologies to develop high-quality, modern web soluti
 </div>
 
 ---
+
+</div>
