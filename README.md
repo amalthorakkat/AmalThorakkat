@@ -30,6 +30,6 @@
 ---
 
 <div align="center">
-  <img src="https://pouch.jumpshare.com/preview/OYGYdMb620Ohcdw2T73_Cp2A7ETmN7yRUIqfUlpUlijrqszyHNWXymWKMqA7VoV0i2HaATe9QU8uHrKAujBPvQhRT48RjPGbKIJS9tRoeP8" alt="GIF 1" style="width:100px; height:auto; margin-right:10px;" />
+  <img src="https://pouch.jumpshare.com/preview/TqaoTzOI42vL5_VIT5UCuaGqXVPn2F45ZEy7F3q5K28WinSe7lAeQhIvvsAcCzXIi2HaATe9QU8uHrKAujBPvY0MzouFq0Iyc9HFK_vEt6s" alt="GIF 1" style="width:100px; height:auto; margin-right:10px;" />
   <img src="https://pouch.jumpshare.com/preview/tK2s501nvE6gHSnuB229XeWUQkpwesH-ovirgkNHMB1-Jbrcs7jf7rz4q2D3tZ0GNkybD2yXlM3dIxwFq50ZXCGufCFwBo4j7iYUQfTyaCI" alt="GIF 2" style="width:100px; height:auto;" />
 </div>
