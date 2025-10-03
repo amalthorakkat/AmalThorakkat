@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://pouch.jumpshare.com/preview/40zZkolIKJf1ubSogEmlPk4rYbVXNlYe62XG4axRKnFr9ihCceF5Cyn5COmQkiunjqmLgvcTUhSSew3024JjZlFOgu58nFS6IH_83y1tC0M" width="700" height="700" style="border-radius:50%; overflow:hidden;" />
+  <img src="https://pouch.jumpshare.com/preview/40zZkolIKJf1ubSogEmlPk4rYbVXNlYe62XG4axRKnFr9ihCceF5Cyn5COmQkiunjqmLgvcTUhSSew3024JjZlFOgu58nFS6IH_83y1tC0M" width="550" height="550" style="border-radius:50%; overflow:hidden;" />
 </div>
 
 
