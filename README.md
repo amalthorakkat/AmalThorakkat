@@ -1,7 +1,6 @@
-<!-- Profile Header -->
 <div align="center">
-  
-# ⚡ **AMAL THORAKKAT**  
+  
+# ⚡ **AMAL THORAKKAT**  
 *Full Stack MERN Developer | Tech Enthusiast*
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/aesthfex)
@@ -10,9 +9,12 @@
 
 </div>
 
+<div align="center">
+  <img src="https://pouch.jumpshare.com/preview/L8P3zd4W2n3n3svWfXOcvhfkmHsd253JcpfpADjq2IUmRVFe_3GikI2UKTXmGf1Yjwh-ASmYp33PmVaL8d8vLeNHVubqdj4gFwViQJUQHBg" alt="Developer GIF" width="450"/> 
+</div>
 ---
 
-##  **Tech Stack**
+##  **Tech Stack**
 <div align="center">
 
 | **Frontend** | **Backend** |
@@ -24,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,tailwind&theme=dark" />
 </div>
 
 ---
