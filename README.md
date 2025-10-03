@@ -12,9 +12,9 @@
 
 ---
 
-##  **Tech Stack**
-<div align="center">
 
+<div align="center">
+##  **Tech Stack**
 | **Frontend** | **Backend** |
 |--------------|-------------|
 | ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26) ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933) ![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![Nodemon](https://img.shields.io/badge/-Nodemon-000?style=for-the-badge&logo=nodemon&logoColor=76D04B) |
