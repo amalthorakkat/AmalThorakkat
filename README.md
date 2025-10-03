@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   
-# ⚡ **AMAL THORAKKAT**  
+#  **AMAL THORAKKAT**  
 *Full Stack MERN Developer | Tech Enthusiast*
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/aesthfex)
